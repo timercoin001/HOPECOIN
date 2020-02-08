@@ -1,5 +1,5 @@
 # HOPECOIN
-=========
+==========
 
 2020年以来世界格局激烈震荡，全球性的危机不断发生，受灾的人民群众不断增加，邀请有志之士慷慨出手。
 
@@ -32,8 +32,8 @@ https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
 
 
 
-HOPECOIN
-= = = = = = = = = =
+# HOPECOIN  
+========
 
 Since 2020, the world pattern has been in violent shock, global crisis has occurred continuously, the number of people affected by the disaster has been increasing, and people with lofty ideals have been invited to give generously.
 
