@@ -30,9 +30,10 @@ https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
 
 HOPE基金的愿景：把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
 ----------------
-
 HOPE希望：捐赠得积分代币，积分代币再捐赠，代币换代币。
 ----------------  
+HOP基金将持续、深度地跟踪生物科技、互联网科技、新能源科技等领域
+----------------
 
        ___   ___   ___         ___   ___   ___        
 |   | |   | |   | |           |     |   |   |   |\  | 
@@ -65,18 +66,18 @@ Erc20 token add address: 0x53c1ea73b6c2ac1a7d0569733c138503abf81118
 
 https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
 
-
-
-##Path to get token:
+Path to get token:
 ----------------
 The first step is to purchase Ethereum eth by major exchanges, the second step is to withdraw Eth and enter into their own wallets, and the third step is to transfer the amount willing to donate to the crowdfunding address 0x9017e0cf34e48110b8a06e35990b4d4d1ee786e89, which is completed.
 
 Wait patiently until the specified token will be received in the wallet after the end of the project. In this process, you must keep the password of the wallet.
 
-##Hope fund's vision: more than 50% of the profits will be used for charitable donation and 50% for market value management. At the same time, we hope that every holder can participate in this vision.
+Hope fund's vision: more than 50% of the profits will be used for charitable donation and 50% for market value management. At the same time, we hope that every holder can participate in this vision.
 ----------------
 
-##Hope: Donate points token, then donate points token and change token.
+Hope: Donate points token, then donate points token and change token.
+----------------
+Hop fund will continuously and deeply track the fields of biotechnology, Internet technology, new energy technology, etc
 ----------------
        ___   ___   ___         ___   ___   ___        
 |   | |   | |   | |           |     |   |   |   |\  | 
