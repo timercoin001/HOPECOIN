@@ -27,3 +27,41 @@ https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
 耐心等待直到项目结束后将会在钱包中收到指定的代币。在这个过程中一定要保存好钱包的密码。
 
 ##HOPE基金的愿景：把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
+
+##HOPE希望：捐赠得积分代币，积分代币再捐赠，代币换代币。
+
+
+
+HOPECOIN
+= = = = = = = = = =
+
+Since 2020, the world pattern has been in violent shock, global crisis has occurred continuously, the number of people affected by the disaster has been increasing, and people with lofty ideals have been invited to give generously.
+
+Hope represents the new hope, which can awaken the people who have the ability of dedication, calm the restlessness and get a new life.
+
+Hopecoin adopts 100% guarantee of blockchain technology, and makes donations with blockchain technology, so that each donation can get a token, so that each donation will not go with the water.
+
+The token can also participate in donation again and fulfill several wishes of the charity fund. I hope you can participate actively.
+
+##Hopecoin crowdfunding content - ongoing
+
+Crowdfunding time: October 12, 2019 to April 30, 2020
+Shanghai Stock Exchange: May 10, 2020
+ETH crowdfunding address: 0x9017e0cf34e48110b8a06e35990b4d4d1e786e89
+ETH crowdfunding target: 20000 eth
+Initial distribution ratio: 1:100000
+Distribution ratio at the end of the period: 1:10000
+Erc20 token add address: 0x53c1ea73b6c2ac1a7d0569733c138503abf81118
+
+https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
+
+
+
+##Path to get token:
+The first step is to purchase Ethereum eth by major exchanges, the second step is to withdraw Eth and enter into their own wallets, and the third step is to transfer the amount willing to donate to the crowdfunding address 0x9017e0cf34e48110b8a06e35990b4d4d1ee786e89, which is completed.
+
+Wait patiently until the specified token will be received in the wallet after the end of the project. In this process, you must keep the password of the wallet.
+
+##Hope fund's vision: more than 50% of the profits will be used for charitable donation and 50% for market value management. At the same time, we hope that every holder can participate in this vision.
+
+##Hope: Donate points token, then donate points token and change token.
