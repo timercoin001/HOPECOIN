@@ -24,8 +24,8 @@ https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
 获取代币的路径：
 ----------------
 
-第一步各大交易所（币安、火币、OKCOIN、GATEIO、MXC、OTC）购买以太坊ETH，http://www.binance.org.cn/ ，https://gateio.org/ ，https://www.okcoin.cn/ 
-第二步提取ETH进入自己的钱包，https://www.token.im/
+第一步各大交易所（币安、火币、OKCOIN、GATEIO、MXC、OTC）购买以太坊ETH，http://www.binance.org.cn/ ，https://gateio.org/ ，https://www.okcoin.cn/   
+第二步提取ETH进入自己的钱包，https://www.token.im/  
 第三步转账愿意捐赠的数额到众筹地址 0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89，完成。
 
 耐心等待直到项目结束后将会在钱包中收到指定的代币。在这个过程中一定要保存好钱包的密码。
@@ -90,8 +90,8 @@ Path to get token:
 ---------------------------------------
 
 
-The first step is to purchase Ethereum eth by major exchanges, http://www.binance.org.cn/ ，https://gateio.org/ ，https://www.okcoin.cn/ 
-the second step is to withdraw Eth and enter into their own wallets, https://www.token.im/
+The first step is to purchase Ethereum eth by major exchanges, http://www.binance.org.cn/ ，https://gateio.org/ ，https://www.okcoin.cn/   
+the second step is to withdraw Eth and enter into their own wallets, https://www.token.im/  
 and the third step is to transfer the amount willing to donate to the crowdfunding address 0x9017e0cf34e48110b8a06e35990b4d4d1ee786e89, which is completed.
 
 
