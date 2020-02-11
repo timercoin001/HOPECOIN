@@ -1,14 +1,14 @@
-# HOPECOIN
+# HOPECOIN（HOP）
 ==========
 
 2020年以来世界格局激烈震荡，全球性的危机不断发生，受灾的人民群众不断增加，邀请有志之士慷慨出手。
 
 HOPE代表了新希望，唤醒有奉献能力的人群，可以抚平不安的躁动，获得新的生活。
 
-HOPECOIN采用了区块链技术100%保障，用区块链技术进行捐赠，使每一份捐赠都能获得一份代币，让每一份捐赠都能够有所得。
+HOPE采用了区块链技术100%保障，用区块链技术进行捐赠，使每一份捐赠都能获得一份代币，让每一份捐赠都能够有所得。
 代币还能再次参与捐赠，完成慈善基金的若干个心愿，希望大家积极参与。
 
-HOPECOIN的众筹内容-正在进行中
+HOPE的众筹内容-正在进行中
 ----------------
 
 众筹时间：2019年10月12日-2020年4月30日  
@@ -32,12 +32,18 @@ ERC20代币添加地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
 
 耐心等待直到项目结束后将会在钱包中收到指定的代币。在这个过程中一定要保存好钱包的密码。
 
-HOPE基金的愿景：把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
+HOPE的愿景
 ----------------
-HOPE希望：捐赠得积分代币，积分代币再捐赠，代币换代币。
-----------------  
-HOPE基金将持续、深度地跟踪生物科技、互联网科技、新能源科技等领域
+把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
+
+HOPE的希望
 ----------------
+捐赠得积分代币，积分代币再捐赠，代币换代币。
+
+HOPE的未来
+----------------
+基金将持续、深度地跟踪生物科技、互联网科技、新能源科技等领域
+
 
        ___   ___   ___         ___   ___   ___        
 |   | |   | |   | |           |     |   |   |   |\  | 
@@ -99,12 +105,19 @@ and the third step is to transfer the amount willing to donate to the crowdfundi
 Wait patiently until the specified token will be received in the wallet after the end of the project. In this process, you must keep the password of the wallet.
 
 
-Hope fund's vision: more than 50% of the profits will be used for charitable donation and 50% for market value management. At the same time, we hope that every holder can participate in this vision.
----------------------------------------
+Hope's vision
+----------------
 
-Hope: Donate points token, then donate points token and change token.
----------------------------------------
+More than 50% of the profits will be used for charity donation and 50% for market value management. At the same time, it is hoped that every holder can participate in the realization of this vision.
 
-Hope fund will continuously and deeply track the fields of biotechnology, Internet technology, new energy technology, etc
----------------------------------------
 
+Hope
+----------------
+
+You can donate points token, then donate points token, and change token into token.
+
+
+The future of hope
+----------------
+
+The fund will continuously and deeply track the fields of biotechnology, Internet technology, new energy technology, etc
