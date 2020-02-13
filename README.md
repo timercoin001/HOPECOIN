@@ -1,4 +1,4 @@
-![image](https://github.com/timercoin001-pub/HOPECOIN/blob/master/hopecoin.jpg)
+![image](https://github.com/timercoin001-pub/HOPECOIN/blob/master/hopecoin-128.jpg)
 
 # HOPECOIN（HOP）
 ==========
