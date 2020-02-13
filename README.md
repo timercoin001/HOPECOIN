@@ -25,12 +25,20 @@ ERC20代币添加地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
 ----------------
 不参与众筹，也可以按照（ETH）1:10000的比例直接兑换HOP代币，一期份额不超过0.5亿币，具体请联系当地的兑换负责人
 
-获取代币的路径：
+获取ETH的指南
 ----------------
 
-第一步各大交易所（币安、火币、OKCOIN、GATEIO、MXC、OTC）购买以太坊ETH，http://www.binance.org.cn/ ，https://gateio.org/ ，https://www.okcoin.cn/   
-第二步提取ETH进入自己的钱包，https://www.token.im/  
-第三步转账愿意捐赠的数额到众筹地址 0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89，完成。
+本文推荐的交易所：
+http://www.binance.org.cn/   
+https://gateio.org/   
+https://www.okcoin.cn/   
+https://www.huobi.io/zh-cn/    
+
+第一步，前往各大交易所（币安、火币、OKCOIN、GATEIO、MXC、OTC）注册账号、认证。  
+第二步，法币区购买USDT，或者直接购买ETH  
+第三步，下载ETH去中心化钱包，https://www.token.im/  
+第四步，从网站提取至少1个ETH进入自己的钱包，一定要记住钱包的密钥
+第五步，转账愿意捐赠的数额到众筹地址 0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89，完成。
 
 耐心等待直到项目结束后将会在钱包中收到指定的代币。在这个过程中一定要保存好钱包的密码。
 
@@ -97,18 +105,35 @@ Currency exchange
 If you do not participate in crowdfunding, you can also exchange hop tokens directly according to the ratio of (ETH) 1:10000. The share of the first phase is not more than RMB 50 million. For details, please contact the local exchange principal
 
 
-Path to get token:
----------------------------------------
+Guidelines for obtaining eth
+----------------
 
 
-The first step is to purchase Ethereum eth by major exchanges, http://www.binance.org.cn/ ，https://gateio.org/ ，https://www.okcoin.cn/   
-the second step is to withdraw Eth and enter into their own wallets, https://www.token.im/  
-and the third step is to transfer the amount willing to donate to the crowdfunding address 0x9017e0cf34e48110b8a06e35990b4d4d1ee786e89, which is completed.
+The exchange recommended in this article:
+
+http://www.binance.org.cn/
+
+https://gateio.org/
+
+https://www.okcoin.cn/
+
+https://www.huobi.io/zh-cn/
+
+
+The first step is to go to major exchanges (currency security, fire currency, okcoin, gateio, MXC, OTC) to register accounts and authenticate.
+
+The second step is to buy usdt in French currency area or eth directly
+
+Step 3: Download eth decentralization wallet, https://www.token.im/
+
+Step 4: extract at least one eth from the website and enter your wallet. Remember the wallet key
+
+Step 5: transfer the amount willing to donate to the crowdfunding address 0x9017e0cf34e48110b8a06e35990b4d4d4d1ee786e89, and complete.
 
 
 Wait patiently until the specified token will be received in the wallet after the end of the project. In this process, you must keep the password of the wallet.
 
-
+  
 Hope's vision
 ----------------
 
