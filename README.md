@@ -28,7 +28,7 @@ ERC20代币添加地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
 获取ETH的指南
 ----------------
 
-本文推荐的交易所：
+本文推荐的交易所：  
 http://www.binance.org.cn/   
 https://gateio.org/   
 https://www.okcoin.cn/   
@@ -109,7 +109,7 @@ Guidelines for obtaining eth
 ----------------
 
 
-The exchange recommended in this article:
+The exchange recommended in this article:  
 
 http://www.binance.org.cn/
 
