@@ -36,7 +36,7 @@ ERC20代币添加地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
 
 兑换大使  
 ----------------
-不参与众筹，也可以按照（ETH）1:10000的比例直接兑换HOP代币，一期份额不超过0.5亿币，具体请联系当地的兑换负责人，兑换大使。
+不参与众筹，也可以按照（ETH）1:10000的比例直接兑换HOP代币，一期份额不超过0.5亿币，具体请联系当地的兑换负责人-兑换大使。
 
 获取ETH的指南
 ----------------
@@ -131,7 +131,7 @@ https://www.yitaifang.com/accounts/0x9017E0cf34e48110B8A06e35990b4Dd1Ee786e89
 Exchange Ambassadors
 ----------------
 
-If you do not participate in crowdfunding, you can also exchange hop tokens directly according to the ratio of (ETH) 1:10000. The share of the first phase is not more than RMB 50 million. For details, please contact the local exchange principal, exchange ambassador.  
+If you do not participate in crowdfunding, you can also exchange hop tokens directly according to the ratio of (ETH) 1:10000. The share of the first phase is not more than RMB 50 million. For details, please contact the local exchange principal-exchange ambassador.  
 
 
 Guidelines for obtaining eth
