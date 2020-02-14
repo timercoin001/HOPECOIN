@@ -44,6 +44,15 @@ https://www.huobi.io/zh-cn/
 
 耐心等待直到项目结束后将会在钱包中收到指定的代币。在这个过程中一定要保存好钱包的密码。
 
+添加代币指南
+-----------
+
+第一步，在imToken中选择以太坊钱包
+第二步，点击钱包“资产”页面的“+”按钮
+第三步，输入HOP的地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
+
+完成以上操作，即可看到HOP的资产   
+
 HOPE的愿景
 ----------------
 把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
@@ -71,15 +80,12 @@ HOPE的未来
 Since 2020, the world pattern has been in violent shock, global crisis has occurred continuously, the number of people affected by the disaster has been increasing, and people with lofty ideals have been invited to give generously.
 
 
-
 Hope represents the new hope, which can awaken the people who have the ability of dedication, calm the restlessness and get a new life.
-
 
 
 Hopecoin adopts blockchain technology for 100% guarantee, and uses blockchain technology for donation, so that each donation can get a token, and each donation can have income.
 
 The token can also participate in donation again and fulfill several wishes of the charity fund. I hope you can participate actively.
-
 
 
 Hopecoin crowdfunding content - ongoing
@@ -134,6 +140,18 @@ Step 5: transfer the amount willing to donate to the crowdfunding address 0x9017
 
 
 Wait patiently until the specified token will be received in the wallet after the end of the project. In this process, you must keep the password of the wallet.
+
+  
+Add token Guide
+------
+
+Step 1: select Ethereum wallet in imtoken
+
+Step 2, click the "+" button on the "assets" page of the wallet
+
+Step 3: enter the address of hop: 0x53c1ea73b6c2ac1a7d0569733c138503abf81118
+
+After the above operations are completed, you can see the assets of hop
 
   
 Hope's vision
