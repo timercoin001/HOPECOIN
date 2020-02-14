@@ -1,7 +1,7 @@
 ![image](https://github.com/timercoin001-pub/HOPECOIN/blob/master/hopecoin-128.jpg)
 
 # HOPECOIN（HOP）
-==========
+---------------
 
 2020年以来世界格局激烈震荡，全球性的危机不断发生，受灾的人民群众不断增加，邀请有志之士慷慨出手。
 
@@ -9,6 +9,8 @@ HOPE代表了新希望，唤醒有奉献能力的人群，可以抚平不安的�
 
 HOPE采用了区块链技术100%保障，用区块链技术进行捐赠，使每一份捐赠都能获得一份代币，让每一份捐赠都能够有所得。
 代币还能再次参与捐赠，完成慈善基金的若干个心愿，希望大家积极参与。
+
+建议1ETH起捐  
 
 HOPE的众筹内容-正在进行中
 ----------------
@@ -73,8 +75,8 @@ HOPE的未来
        ---         ---         ---   ---   ---        
                                                       
                                                       
- HOPECOIN
- ==========
+ # HOPECOIN
+ ---------
 
 
 Since 2020, the world pattern has been in violent shock, global crisis has occurred continuously, the number of people affected by the disaster has been increasing, and people with lofty ideals have been invited to give generously.
@@ -87,6 +89,7 @@ Hopecoin adopts blockchain technology for 100% guarantee, and uses blockchain te
 
 The token can also participate in donation again and fulfill several wishes of the charity fund. I hope you can participate actively.
 
+Suggestion 1 eth donation
 
 Hopecoin crowdfunding content - ongoing
 ---------------------------------------
