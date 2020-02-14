@@ -47,9 +47,9 @@ https://www.huobi.io/zh-cn/
 添加代币指南
 -----------
 
-第一步，在imToken中选择以太坊钱包
-第二步，点击钱包“资产”页面的“+”按钮
-第三步，输入HOP的地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
+第一步，在imToken中选择以太坊钱包  
+第二步，点击钱包“资产”页面的“+”按钮  
+第三步，输入HOP的地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118  
 
 完成以上操作，即可看到HOP的资产   
 
@@ -145,13 +145,13 @@ Wait patiently until the specified token will be received in the wallet after th
 Add token Guide
 ------
 
-Step 1: select Ethereum wallet in imtoken
+Step 1: select Ethereum wallet in imtoken  
 
-Step 2, click the "+" button on the "assets" page of the wallet
+Step 2, click the "+" button on the "assets" page of the wallet  
 
-Step 3: enter the address of hop: 0x53c1ea73b6c2ac1a7d0569733c138503abf81118
+Step 3: enter the address of hop: 0x53c1ea73b6c2ac1a7d0569733c138503abf81118  
 
-After the above operations are completed, you can see the assets of hop
+After the above operations are completed, you can see the assets of hop  
 
   
 Hope's vision
