@@ -1,7 +1,7 @@
 ![image](https://github.com/timercoin001-pub/HOPECOIN/blob/master/hopecoin-128.jpg)
 
 # HOPECOIN（HOP）
----------------
+
 
 2020年以来世界格局激烈震荡，全球性的危机不断发生，受灾的人民群众不断增加，邀请有志之士慷慨出手。
 
@@ -75,8 +75,7 @@ HOPE的未来
        ---         ---         ---   ---   ---        
                                                       
                                                       
- # HOPECOIN
- ---------
+ # HOPECOIN   
 
 
 Since 2020, the world pattern has been in violent shock, global crisis has occurred continuously, the number of people affected by the disaster has been increasing, and people with lofty ideals have been invited to give generously.
