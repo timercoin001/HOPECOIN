@@ -42,8 +42,8 @@ ERC20代币添加地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
 
 因人力有限，现在公布2位兑换大使的ETH地址：
 
-兑换大使01 ： 0xa2e4Ca418A23d121a306C49782D49490D7442A5b
-兑换大使02 ： 0x770845b755fBc9540B7025A7f33C3E3067Cb42c5
+兑换大使01 ： 0xa2e4Ca418A23d121a306C49782D49490D7442A5b  
+兑换大使02 ： 0x770845b755fBc9540B7025A7f33C3E3067Cb42c5  
 
 详细了解项目内容后可以向大使直接发送ETH，大使将会按照固定比例兑换成代币原路发放，感谢你的参与。
              
@@ -147,8 +147,8 @@ If you do not participate in crowdfunding, you can also exchange hop tokens dire
 
 Due to limited manpower, the ETH address of two exchange Ambassadors is now announced:
 
-Exchange ambassador 01 : 0xa2e4ca418a23d121a306c49782d49490d7442a5b
-Exchange ambassador 02 : 0x770845b755fbc9540b7025a7f33c3e3067cb42c5
+Exchange ambassador 01 : 0xa2e4ca418a23d121a306c49782d49490d7442a5b  
+Exchange ambassador 02 : 0x770845b755fbc9540b7025a7f33c3e3067cb42c5  
 
 After detailed understanding of the project content, you can send eth directly to the ambassador. The ambassador will exchange the token according to the fixed proportion and issue it in the original way. Thank you for your participation.
   
