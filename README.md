@@ -47,7 +47,9 @@ ERC20代币添加地址：0x53C1EA73B6c2ac1A7D0569733c138503ABF81118
 
 详细了解项目内容后可以向大使直接发送ETH，大使将会按照固定比例兑换成代币原路发放，感谢你的参与。
              
+其他币种例如SERO，兑换大使的SERO地址：21katWRGCkyLGnqAZeEeLxMxiDWzh7gNSoWMPk25LBDXRi44dy1ekM8U3tiGTnDc1Z37R5WaJB1p8m6RgkPbJ5E1CRAyPj4RAeeibBf48DQC6jFarGMm3878tNV1mWDqsKj3
         
+              
 获取ETH的指南
 ----------------  
 
@@ -152,7 +154,9 @@ Exchange ambassador 02 : 0x770845b755fbc9540b7025a7f33c3e3067cb42c5
 
 After detailed understanding of the project content, you can send eth directly to the ambassador. The ambassador will exchange the token according to the fixed proportion and issue it in the original way. Thank you for your participation.
   
-            
+Other currencies such as sero, the address of the exchange Ambassador: 21katwrgckylgnqazeelxmxidwzh7gsowmpk25lbdxri44dy1ekm8u3tigtndc1z37r5wajb1p8m6rgkpbj5e1craypj4raeibbf48dqc6jfargmm3878tnv1mwdqskj3
+
+        
 Guidelines for obtaining eth
 ----------------
 
