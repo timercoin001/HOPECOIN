@@ -9,6 +9,8 @@ HOPE代表了新希望，唤醒有奉献能力的人群，可以抚平不安的�
 HOPE采用了区块链技术100%保障，用区块链技术进行捐赠，使每一份捐赠都能获得一份代币，让每一份捐赠都能够有所得。
 代币还能再次参与捐赠，完成慈善基金的若干个心愿，希望大家积极参与。建议1ETH起捐。  
 
+HOPE将在终点等你。
+
 HOPE的愿景
 ----------------
 把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
@@ -88,7 +90,9 @@ The token can also participate in donation again and fulfill several wishes of t
 
 Suggestion 1 eth donation
 
-  
+Hope will wait for you at the end.
+
+   
 Hope's vision
 ----------------
 
